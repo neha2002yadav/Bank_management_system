@@ -45,5 +45,5 @@ Built using **Python**, **MySQL**, and **Streamlit**, this project enables users
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Bank_Management_System.git
-   cd Bank_Management_System
+   git clone https://github.com/neha2002yadav/Bank_Management_System.git
+cd Bank_Management_System
